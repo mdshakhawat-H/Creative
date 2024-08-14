@@ -136,6 +136,9 @@
 .team-wrapper{
     row-gap: 15px;
 }
+#team .team-box img{
+    width: 100%;
+}
 /* team end */
 /* customer start */
 #customer .title h2 {
